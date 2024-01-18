@@ -131,7 +131,10 @@ By aligning the game more closely with these advanced concepts, "Cortex Conundru
 
 Integrating "Cortex Conundrum: Neural Network Navigator" with a real AI system like the GPT-4 API can significantly enhance the game's educational and interactive value. This integration can provide real-time AI assistance, dynamic content generation, and an interactive learning experience. Here's how you can design this integration:
 
-Designing the user interface (UI) for "Cortex Conundrum: Neural Network Navigator" is crucial for ensuring an engaging, intuitive, and educational experience. The UI should cater to players with varying levels of expertise in neural networks and be visually appealing to keep them engaged. Here's a strategy for designing the UI:
+Designing the user interface (UI) for "Cortex Conundrum: Neural Network Navigator" is crucial for ensuring an engaging, intuitive, and educational experience. The UI should cater to players with varying levels of expertise in neural networks and be visually appealing to keep them engaged.
+
+
+Here's a strategy for designing the UI:
 
 ### UI Design Principles
 
