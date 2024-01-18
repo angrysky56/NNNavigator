@@ -129,10 +129,10 @@ Incorporating the concepts of brain complexity, consciousness, and their paralle
 3. **Community Challenges**: Regularly update the game with community challenges focusing on creating AI models or neural networks that showcase properties like criticality or fractal behavior.
 By aligning the game more closely with these advanced concepts, "Cortex Conundrum: Neural Network Navigator" not only becomes a tool for understanding AI and neuroscience but also a platform for exploring the cutting-edge theories and ethical considerations in these fields.
 
-Paper
+Paper discussed:
 https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0223812&type=printable
 
-Chat
+Chat:
 https://chat.openai.com/share/2dc2fb4c-4e12-4bbf-84f3-261488fb74d4
 
 ![fractal_tree_LLM_modelConcepts](https://github.com/angrysky56/NNNavigator/assets/113643118/2270a916-4f78-446e-b0c4-f5cc4443403c)
