@@ -295,4 +295,13 @@ https://chat.openai.com/share/2dc2fb4c-4e12-4bbf-84f3-261488fb74d4
 
 ![fractal_tree_LLM_modelConcepts](https://github.com/angrysky56/NNNavigator/assets/113643118/2270a916-4f78-446e-b0c4-f5cc4443403c)
 
+![KuramotoTree1](https://github.com/angrysky56/NNNavigator/assets/113643118/3138bfe6-70d9-43e3-a2c4-f5919981fe16)
+
+![KuramotoTree2](https://github.com/angrysky56/NNNavigator/assets/113643118/76957f44-f696-44d4-b690-a9ffb907dd52)
+
+![kuramotoSerpinski1](https://github.com/angrysky56/NNNavigator/assets/113643118/1c3cf7f6-0af7-44f0-98bd-c1aff8ee2945)
+
+![kuramotoSerpinski2](https://github.com/angrysky56/NNNavigator/assets/113643118/2e92129b-e1b4-4dad-9175-3f7463de8ba7)
+
+
 
