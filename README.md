@@ -301,6 +301,18 @@ https://chat.openai.com/share/2dc2fb4c-4e12-4bbf-84f3-261488fb74d4
 
 ![kuramotoSerpinski1](https://github.com/angrysky56/NNNavigator/assets/113643118/1c3cf7f6-0af7-44f0-98bd-c1aff8ee2945)
 
+![kuramotoMandelbrot_1](https://github.com/angrysky56/NNNavigator/assets/113643118/00c8f0ff-6add-4f7a-aed5-2b8f3cc513de)
+
+![kuramotoMandelbrotPhaseColoring_2](https://github.com/angrysky56/NNNavigator/assets/113643118/de4deecb-9572-4283-b64a-5401caef085e)
+
+![Screenshot 2024-01-20 141331](https://github.com/angrysky56/NNNavigator/assets/113643118/56f56305-e94d-47cd-b774-e88d8d3280f5)
+
+![Screenshot 2024-01-20 141700](https://github.com/angrysky56/NNNavigator/assets/113643118/4ee56423-0fa0-41d7-8260-d5ff0a810e09)
+
+
+
+
+
 ![kuramotoSerpinski2](https://github.com/angrysky56/NNNavigator/assets/113643118/2e92129b-e1b4-4dad-9175-3f7463de8ba7)
 
 
