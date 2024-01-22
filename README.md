@@ -309,6 +309,7 @@ https://chat.openai.com/share/2dc2fb4c-4e12-4bbf-84f3-261488fb74d4
 
 ![Screenshot 2024-01-20 141700](https://github.com/angrysky56/NNNavigator/assets/113643118/4ee56423-0fa0-41d7-8260-d5ff0a810e09)
 
+![image](https://github.com/angrysky56/NNNavigator/assets/113643118/f9e0cd8c-81f9-490a-a6dc-a7bd4c0be2f0)
 
 
 
